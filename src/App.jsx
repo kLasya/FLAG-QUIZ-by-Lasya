@@ -15,6 +15,11 @@ const countries = [
   { name: "Brazil", image: "https://flagcdn.com/w320/br.png" },
   { name: "Greenland", image: "https://flagcdn.com/w320/gl.png" },
   { name: "El Salvador", image: "https://flagcdn.com/w320/sv.png" },
+  { name: "Puerto Rico", image: "https://flagcdn.com/w320/pr.png" },
+  { name: "Colombia", image: "https://flagcdn.com/w320/co.png" },
+  { name: "Venezuela", image: "https://flagcdn.com/w320/ve.png" },
+  { name: "Honduras", image: "https://flagcdn.com/w320/hn.png" },
+  { name: "Guyana", image: "https://flagcdn.com/w320/gy.png" },
 ];
 
 export default function FlagQuiz() {
